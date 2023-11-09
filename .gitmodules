@@ -1,0 +1,6 @@
+[submodule "pri"]
+	path = pri
+	url = https://github.com/rssrrss/pri
+[submodule "pub"]
+	path = pub
+	url = https://github.com/rssrrss/pub
